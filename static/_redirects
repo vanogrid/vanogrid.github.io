@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://vanogrid.netlify.com/* https://www.vanogrid.com/:splat 301!
